@@ -1,3 +1,12 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Orlando",
+      "empresa": "IPN",
+      "email": "orly_futasl@dail.com",
+      "telefono": "555878985",
+      "notas": "Orlando es genial",
+      "id": 1
+    }
+  ]
 }
