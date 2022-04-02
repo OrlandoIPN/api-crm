@@ -1,36 +1,3 @@
 {
-  "clientes": [
-    {
-      "nombre": "Orlando(ACTUALIZADO)",
-      "empresa": "IPN",
-      "email": "orly_fut97@hotmail.com",
-      "telefono": "5554053220",
-      "notas": "Esta es un ejemplo de notas para probar json",
-      "id": 1
-    },
-    {
-      "nombre": "Mama",
-      "empresa": "mi Hermosa madre ",
-      "email": "malourdes63@hotmail.com",
-      "telefono": "5540126349",
-      "notas": "mi hermosa madre",
-      "id": 4
-    },
-    {
-      "nombre": "July",
-      "empresa": "helouuuu",
-      "email": "malourdes63@hotmail.com",
-      "telefono": "5540126349",
-      "notas": "",
-      "id": 5
-    },
-    {
-      "nombre": "Mariann",
-      "empresa": "Casa",
-      "email": "marinn63@hotmail.com",
-      "telefono": "5545109714",
-      "notas": "Mariana es mi hermana",
-      "id": 6
-    }
-  ]
+  "clientes": []
 }
